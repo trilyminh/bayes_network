@@ -1,0 +1,3 @@
+2
+intelligence=low;difficulty=easy,letter=strong
+grade=c,letter=weak;
